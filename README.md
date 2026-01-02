@@ -1,4 +1,4 @@
-# Triangle_Counting
+# High-Performance Triangle Counting in Large Graphs
 
 This is the first project of Parallel and Distributed Systems lesson of Aristotle University of Thessaloniki, department of Electrical and Computer Engineering. The main of goal of this project is to utilize and optimize the calculation of A*(A^2) formula which is used for triangle counting in graph theory, where A is a sparse symmetric adjency matrix. In this repo there is a sequential masked implementation and also some parallel versions of it written in C using pthreads, OpenMP and OpenCilk. Also there is similar implementation in Julia.
 <br />
